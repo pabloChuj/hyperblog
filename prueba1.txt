@@ -1,0 +1,4 @@
+hola mi nombre es pablo y esta es una prueba del curso de git
+no se que poner y por eso estoy poniendo lo primero que se me viene
+ a la mente porque lo unico que quiero es tener texto en mi
+ archivo
